@@ -1,6 +1,6 @@
 # Olá! Me chamo Ronny Guilherme👋
 
-Sou um apaixonado em tecnologia, tenho tecnico em desenvolvimento de sistemas pela escola ETE Ministro Fernando lyra. Atualmente estou estudando algumas linguagens de programação e pretendo logo mais entrar em alguma empresa de tecnologia e trabalhar com a minha paixão.😁
+Sou um jovem apaixonado por tecnologia e em constante aprendizado, atualmente trabalhando na Ferreira Costa, o maior Home Center do Nordeste. Tenho formação técnica em Desenvolvimento de Sistemas pela ETE Ministro Fernando Lyra e estou aprimorando meus conhecimentos em diversas linguagens de programação. Minha intenção é, em breve, ingressar em uma empresa de tecnologia para atuar na área que tanto me fascina, desenvolvendo soluções inovadoras e contribuindo para o crescimento do setor.😁
 
 💼 Atualmente estou trabalhando em Suporte de TI na Ferreria Costa maior home center do nordeste.
 
