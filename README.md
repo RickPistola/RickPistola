@@ -2,7 +2,7 @@
 
 Sou um jovem apaixonado por tecnologia e em constante aprendizado. Tenho formação técnica em Desenvolvimento de Sistemas pela ETE Ministro Fernando Lyra e estou aprimorando meus conhecimentos em diversas linguagens de programação. Minha intenção é, em breve, ingressar em uma empresa de tecnologia para atuar na área que tanto me fascina, desenvolvendo soluções inovadoras e contribuindo para o crescimento do setor.😁
 
-💼 Atualmente estou trabalhando em Suporte de TI na Ferreria Costa maior home center do nordeste.
+💼 Atualmente estou a Procura de um emprego.
 
 👨🏻‍💻 No momento estou aprendendo as Tecnologias: C#, .NET, python 
 
